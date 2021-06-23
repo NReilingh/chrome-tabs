@@ -1,0 +1,9 @@
+{
+  "name": "Count my tabs",
+  "description": "Status tracker for Slack lol",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  }
+}
